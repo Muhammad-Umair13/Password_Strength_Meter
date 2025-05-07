@@ -38,5 +38,5 @@ A Streamlit web application that checks password strength and generates secure r
 ### Password Generation Algorithm
 1. Selects one random character from each required category
 2. Adds 8 more random characters from all categories
-3. Shuffles the characters to prevent patterns
-4. Outputs a 12-character password guaranteed to pass all checks
+3. Sum the characters to generate new password
+4. Outputs a 14-character password guaranteed to pass all checks
